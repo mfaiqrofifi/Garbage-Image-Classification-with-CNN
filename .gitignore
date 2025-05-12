@@ -2,12 +2,5 @@
 saved_model/
 tfjs_model/
 
-# Optional: ignore model artifacts in general
-*.pb
-*.h5
-
 # Ignore everything in tflite/
-tflite/*
-
-# But keep the TFLite model file only
-!tflite/model.tflite
+tflite/
