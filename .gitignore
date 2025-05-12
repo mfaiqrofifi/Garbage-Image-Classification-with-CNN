@@ -1,6 +1,7 @@
-# Ignore all model folders
+# Ignore all model folders and large files
 saved_model/
 tfjs_model/
-
-# Ignore everything in tflite/
 tflite/
+*.tflite
+*.pb
+*.h5
