@@ -1,5 +1,7 @@
 # Klasifikasi Gambar Sampah Rumah Tangga Menggunakan CNN
 
+![Alt text](garbage-2.jpg)
+
 Proyek ini merupakan implementasi deep learning untuk mengklasifikasikan gambar sampah rumah tangga ke dalam tiga kategori utama. Model dibangun menggunakan arsitektur Convolutional Neural Network (CNN) dengan framework TensorFlow dan Keras. Tujuan utama dari proyek ini adalah untuk membantu proses pemilahan sampah secara otomatis melalui teknologi pengenalan gambar.
 
 Model telah diekspor dalam berbagai format agar dapat digunakan lintas platform, mulai dari deployment di server hingga integrasi pada aplikasi web dan perangkat mobile.
